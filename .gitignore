@@ -1,0 +1,1 @@
+-e "# Android-specific files\n*.iml\n/.gradle\n/local.properties\n/.idea/caches\n/.idea/libraries\n/.idea/modules.xml\n/.idea/workspace.xml\n.DS_Store\n/captures/\n/build/\n/app/build/\n# Gradle files\n.gradle/\nbuild/\ncaptures/" 
